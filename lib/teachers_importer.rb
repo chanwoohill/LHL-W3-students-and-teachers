@@ -27,4 +27,8 @@ class TeachersImporter
     puts "\nDONE #{failures}\n\n"
   end
 
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> ce71ffad685444a4f5f6e61b9517fb69d810364b
